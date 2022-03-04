@@ -1,8 +1,7 @@
 #!/usr/bin/python3
 
 """
-Automate audio Extraction from a video file using ffmpeg and python3
-Date: 3-2-2021
+Automate audio extraction from a video file using ffmpeg and python3
 https://wingxel.github.io/website/index.html
 """
 
