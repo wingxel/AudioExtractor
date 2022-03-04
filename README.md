@@ -1,3 +1,4 @@
+# AudioExtracor Version 1.0
 -------------------------------------------------------
 Requirements:
 	(1) ffmpeg
