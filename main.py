@@ -5,13 +5,13 @@ Automate audio extraction from a video file using ffmpeg and python3
 https://wingxel.github.io/website/index.html
 """
 
-import getopt
 import os
+import sys
+import getopt
 import pprint
 import subprocess
-import sys
-from pathlib import Path
 
+from pathlib import Path
 from pymediainfo import MediaInfo
 
 
